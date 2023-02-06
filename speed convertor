@@ -1,4 +1,5 @@
 /*This is a comment */
+/*This is a comment */
 
 public class SpeedConverter {
     /* Method takes in 1 parameter of type double with the name kilometersPerHour. This method needs to return the rounded value of the calculation of type long.
